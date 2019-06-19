@@ -2,7 +2,7 @@ public class Sumarraydemo {
 
 	public static void main(String[] args) {
 		
-		int a[] = new int[] { 10, 30, 40, 60 };
+		int a[] = new int[] { 10, 30, 40};
 		int sum = 0, i;
 		for (i = 0; i < a.length; i++)
 			sum += a[i];
